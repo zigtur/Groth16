@@ -9,7 +9,7 @@ The only thing that we need is Python3, some libraries and the most important: t
 
 ## Dependencies
 ```
-pip3 install py_ecc numpy scipy
+pip3 install py_ecc numpy galois
 ```
 
 
